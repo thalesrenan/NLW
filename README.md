@@ -1,4 +1,3 @@
 # NLW
-Next Level Week
-Projeto da missão discover da NLW 
+Projeto da missão discover da NLW #Together
 06/2021
