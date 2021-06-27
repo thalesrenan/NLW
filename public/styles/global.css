@@ -34,7 +34,7 @@ body{
 body, button, input, textarea{
     font-size: clamp(14px, 1.6rem, 2vw);
 
-    font-family: 'Opens Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     
 }
 
